@@ -18,6 +18,16 @@ By the end of this task, you will be familier with the tech stack that we use.
 - Text editor - We recommend VS Code with our Official Astro extension.
 - Terminal 
 
+### Some really helpful extensions on VS Code
+
+
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) (after installing this, you can type rfc in a .jsx file to get code snippet for a react component)
+- [Astro extension](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode)
+- GitHub Copilot 
+
+### Steps
+
 1. Download and Extract this [Frontendmentor challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) to get the design pictures (Alternatively you can use this [drive link](https://drive.google.com/drive/folders/11HQlzJQeb-O_dDO9iWduNayhOo-1_zYI?usp=drive_link) too)
 
   
