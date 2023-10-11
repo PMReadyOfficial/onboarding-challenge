@@ -1,4 +1,4 @@
-# Frontend Mentor - Qr QR code component Challenge
+# Frontend Mentor - QR code component Challenge
 
 Welcome to PMReady!🎉🎉
 
