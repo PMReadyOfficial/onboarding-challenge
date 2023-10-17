@@ -86,7 +86,7 @@ By the end of this task, you will be familier with the tech stack that we use.
 
 5. For this challenge, create a new file *Qr.jsx* inside *components* folder. This is where you will create your component.
 
-6. Open *index.astro* file inside *pages* and remove everrthing inside the `<main>` tag and remove the `style` tag too. Also go ahead and remove the `style` 
+6. Open *index.astro* file inside *pages* and remove everrthing inside the `<main>` tag and remove the `style` tag too. Also go ahead and remove the `style` tag from layout.astro file
     <details>
     <summary>index.astro</summary>
     Your index.astro file should look like this.
